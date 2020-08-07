@@ -1,0 +1,1 @@
+Database file in backend->Database. Import that in your database. Before that create a database by the name of sql file name.
