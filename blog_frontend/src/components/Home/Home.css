@@ -1,0 +1,15 @@
+.table-border {
+    border-collapse: collapse;
+}
+
+thead, tbody {
+    border: 1px solid black;
+}
+
+.danger {
+    background: red;
+}
+
+.align1 {
+    float: left;
+}
